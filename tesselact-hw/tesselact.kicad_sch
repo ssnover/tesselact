@@ -4395,6 +4395,12 @@
     (path "/d80cb2d5-0383-42d7-9ac1-3c9127d27368/00f21a4a-a669-49e3-a511-8cdd6a1e6834"
       (reference "#PWR0134") (unit 1) (value "GND") (footprint "")
     )
+    (path "/d80cb2d5-0383-42d7-9ac1-3c9127d27368/a3112a67-e5ad-45b6-97a3-3b981a5b09db"
+      (reference "#PWR0135") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d80cb2d5-0383-42d7-9ac1-3c9127d27368/8078996e-d625-48cf-9e21-6a88e466900e"
+      (reference "AE1") (unit 1) (value "Antenna_Chip") (footprint "my-footprints:pcb-antenna")
+    )
     (path "/f5603cdc-d250-4c52-86b5-560db484e1de"
       (reference "C1") (unit 1) (value "10u") (footprint "")
     )
