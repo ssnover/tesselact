@@ -5,7 +5,8 @@
   (paper "A4")
 
   (title_block
-    (title "nrf24-xcvr")
+    (title "tesselact")
+    (date "2022-10-13")
     (rev "0.1.0")
   )
 
